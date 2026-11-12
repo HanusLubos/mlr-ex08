@@ -1,0 +1,10 @@
+# Course material that must not end up in the public Pages build.
+# These live in this folder on disk but are intentionally NOT published:
+# the student notebook is the teacher's handout, the .zip is the original drop.
+Copy_of_ex08_student.ipynb
+ex08_for_agent.zip
+ex08_for_agent/
+
+# local clutter
+.DS_Store
+Thumbs.db
